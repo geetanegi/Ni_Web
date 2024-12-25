@@ -1,0 +1,58 @@
+.main-container {
+    width: 100%;
+    padding: 20px;
+    padding-top: 95px;
+}
+
+.niApp .navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    background: linear-gradient(90deg, #000, #891718)
+}
+
+.page-title {
+    font-size: 20px;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+}
+
+.distance-div-top {
+    margin-top: 10px;
+}
+
+.users-filters .ant-select {
+    width: 20%;
+}
+
+.users-filters .ant-select+.ant-select,
+.users-filters .ant-select+button {
+    margin-left: 10px;
+}
+
+.ant-popover-inner-content .ant-btn-default {
+    background-color: inherit !important;
+    color: inherit !important;
+}
+
+.ant-btn-default {
+    background-color: #c84155;
+    color: #fff;
+}
+
+.center-header {
+    text-align: center;
+}
+
+.center-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 95vh;
+    /* 100% of the viewport height, adjust as needed */
+}
+
+.success-text {
+    color: #35D028;
+}

@@ -1,0 +1,55 @@
+.checklist-img{
+width: 50vw;
+background: linear-gradient(rgb(232, 183, 183), transparent);
+display: flex;
+align-content: center;
+justify-content: space-around;
+align-items: center;
+}
+.main-checklist{
+    display: flex;
+    /* height: 70vh;
+    width: 98vw; */
+    position: relative;
+    border: 3px solid rgb(235,235,235);
+    
+}
+.download-img{
+    width: 15rem;
+}
+.checklist-input {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin: 1rem;
+
+}
+.checklist-name{
+    font-size: 1.5rem;
+    margin: 1rem;
+
+}
+.input-width{
+    width: 21rem;
+}
+.label-div{
+   padding-left: 2.5rem;
+}
+.hr-color{
+    border: 1.5px solid rgb(154, 152, 152);
+}
+.btn-div{
+     display: flex;
+     justify-content: flex-end;
+     margin-right: 2rem;
+}
+.btn-div-downloard{
+    margin: 1rem;
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 3rem;
+}
+.btn-download-xl{
+    display: flex;
+    justify-content: flex-end;
+}

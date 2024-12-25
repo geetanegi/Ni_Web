@@ -1,0 +1,165 @@
+.inputWidth {
+  width: 30rem;
+  margin-left: 5.1rem;
+}
+.inputWidthSatatus {
+  width: 30rem;
+  margin-left: 4.3rem;
+}
+.inputWidthSatatus {
+  width: 30rem;
+  margin-left: 3.8rem;
+}
+.input-Width-dec {
+  width: 30rem;
+  margin-left: 2rem;
+  margin-top: 1.5rem;
+  height: 80px ;
+
+}
+.input-url {
+  width: 30rem;
+  height: 80px ;
+  margin: 1rem;
+  margin-left: 5rem;
+}
+.input-label {
+  margin-right: 5rem;
+  margin-top: 1.5rem;
+}
+.file-upload {
+  width: 30rem;
+  margin-left: 2.5rem;
+  margin-top: 1.5rem;
+}
+.input-upload {
+  width: 30rem;
+  margin-left: 5rem;
+  margin-top: 1.5rem;
+  background-color: rgb(255, 255, 255);
+  color: black;
+}
+.label-div-main {
+  padding-left: 2.5rem;
+  margin-top: 1.5rem;
+}
+.bci-form {
+  align-content: space-around;
+  justify-items: center;
+  flex-wrap: wrap;
+  border: 4px solid rgb(235, 235, 235);
+  /* height: 70vh;
+  width: 100vh; */
+}
+.active-btn {
+  background-color: green;
+  width: 8rem;
+}
+.active-btn-publish {
+  background-color: green;
+  width: auto;
+}
+.label-type {
+  margin-right: 2rem;
+}
+.btnAddNew {
+  width: 15rem;
+}
+.main-card {
+  width: 100vh;
+  margin-top: 1rem;
+  margin-left: 2rem;
+}
+.main-card-bci {
+  /* width: 60vh; */
+  margin-top: 1rem;
+  margin-left: 2rem;
+
+}
+
+
+.main-card .img {
+  margin-right: 2%;
+  border-radius: 15%;
+  box-shadow: 10%;
+}
+.main-card .img img {
+  margin-right: 2%;
+  border-radius: 15%;
+  box-shadow: 10%;
+}
+.anchor a {
+  transform: translate(20%, 80%);
+}
+.input-Width-file {
+  width: 30rem;
+  margin-left: 2.8rem;
+  margin-top: 1.5rem;
+}
+.Deactivate-btn {
+  width: 8rem;
+}
+.inputWidthVideo {
+  width: 30rem;
+  margin-left: 2rem;
+  margin-top: 1.5rem;
+}
+
+.list-item {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.button-bci {
+  margin-left: 107px;  
+}
+
+.page-bci {
+  margin-left: 52px;
+ }
+
+
+ .ant-card-bci {
+  padding: 8px;
+    border-radius: 0 0 8px 8px;
+    display: flex;
+    width: 25rem;
+ }
+
+ .box-button{
+  display: flex;
+justify-content: end
+ }
+ .publish-card{
+  position: absolute;
+  top: -23%;
+  left: 83%;
+  width: 78px;
+  background-color: #c4f6c9;
+ }
+
+ .publishdraft-card{
+  position: absolute;
+  top: -23%;
+  left: 83%;
+  width: 78px;
+  background-color: #c4f6c9;
+ }
+
+.publish-card.card {
+  background-color: #c4f6c9;
+  align-items: center;
+  height: 20px;
+}
+.publishdraft-card.card {
+  background-color: #e6e688;
+  align-items: center;
+  height: 20px;
+}
+
+
+.ant-card-body {
+  padding: 20px 21px 0px 20px !important;
+}
+ .box-button > div > button { margin: 10px }

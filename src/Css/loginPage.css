@@ -1,0 +1,45 @@
+.centerOfPage {
+  transform: translate(85%, 35%);
+  border-radius: 4px;
+  background-color: white;
+  width: 80vh;
+  padding: 2px;
+}
+
+.centerOfPage .inputField {
+  width: 90%;
+}
+
+.mainPage {
+  padding: 0;
+  text-align: center;
+  height: 100vh;
+  background: linear-gradient(90deg, #000000, #891718)
+}
+
+.headingOfPage {
+  font-family: 'poppins-bold', sans-serif !important;
+  font-size: 20px;
+  margin: 5px;
+}
+
+.forgetBtn {
+  display: Flex;
+  justify-content: space-between;
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.logoCss {
+  width: 150px;
+  margin-top: 5px;
+}
+
+.loginBtn {
+  background-color: #A4353D;
+  color: white;
+  width: 40%
+}
+.loginLink {
+margin-bottom: 1rem;
+}
